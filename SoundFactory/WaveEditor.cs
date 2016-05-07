@@ -4,10 +4,8 @@ using System.Windows.Forms;
 using System.Threading;
 using CSCore;
 using CSCore.Codecs;
-using CSCore.Codecs.RAW;
 using CSCore.CoreAudioAPI;
 using CSCore.Streams;
-using System.Diagnostics;
 using System.IO;
 
 namespace SoundFactory
